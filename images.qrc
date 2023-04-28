@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Display Icon.png</file>
+        <file>Paypal_Icon.png</file>
+        <file>Banner.png</file>
+    </qresource>
+</RCC>

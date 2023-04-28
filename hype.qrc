@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>DisplayStandby.html</file>
+        <file>DisplayStandby.hyperesources/blank.gif</file>
+        <file>DisplayStandby.hyperesources/D9BFB1-restorable.plist</file>
+        <file>DisplayStandby.hyperesources/Display Icon.png</file>
+        <file>DisplayStandby.hyperesources/displaystandby_hype_generated_script.js</file>
+        <file>DisplayStandby.hyperesources/HYPE-740.full.min.js</file>
+        <file>DisplayStandby.hyperesources/HYPE-740.thin.min.js</file>
+        <file>DisplayStandby.hyperesources/PIE.htc</file>
+    </qresource>
+</RCC>
