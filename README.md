@@ -1,4 +1,5 @@
 # DisplayStandby
  Switch off your Monitors
 
-Written with Qt-Creator in C++ and Qt6
+Written with QtCreator in C++ and Qt6.
+Currently only runs on Windows.
