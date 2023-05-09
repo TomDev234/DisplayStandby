@@ -2,4 +2,4 @@
  Switch off your Monitors
 
 Written with QtCreator in C++ and Qt6.
-Currently only runs on Windows.
+Currently only Windows is supported.
